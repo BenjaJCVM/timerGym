@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Circuito Brazos",
+        "inicio": "10",
+        "trabajo": "60",
+        "descanso": "20",
+        "ciclos": "6"
+    },
+    {
+        "nombre": "Circuito Piernas",
+        "inicio": "10",
+        "trabajo": "40",
+        "descanso": "15",
+        "ciclos": "8"
+    },
+    {
+        "nombre": "Circuito Tren Superior",
+        "inicio": "10",
+        "trabajo": "20",
+        "descanso": "10",
+        "ciclos": "4"
+    }
+]
